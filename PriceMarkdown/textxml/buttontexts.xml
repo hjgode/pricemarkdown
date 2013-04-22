@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<text>
+  <buttons>
+    <button id="0" text="deutsch" />
+    <button id="1" text="english" />
+    <button id="2" text="espanol" />
+  </buttons>
+  <labels>
+    <labels0>
+      <label id="0" text="Alter Preis" />
+      <label id="1" text="Neuer Preis" />
+      <label id="2" text="Drucken" />
+    </labels0>
+    <labels1>
+      <label id="0" text="Old Price" />
+      <label id="1" text="New Price" />
+      <label id="2" text="Print" />
+    </labels1>
+    <labels2>
+      <label id="0" text="Precio antiguo" />
+      <label id="1" text="Precio nuevo" />
+      <label id="2" text="Imprimir" />
+    </labels2>
+  </labels>
+  <vars>
+    <var id="0" text="reduziert" />
+    <var id="1" text="reduced" />
+    <var id="2" text="muy reducido" />
+  </vars>
+  <currencies>
+    <currency id="0" text="€" />
+    <currency id="1" text="$" />
+    <currency id="2" text="€" />
+  </currencies>
+</text>

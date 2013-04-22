@@ -1,0 +1,10 @@
+﻿LAYOUT RUN "c:PRICE_MARKDOWN.LAY"
+INPUT ON
+...stark reduziert
+9,95
+2,85
+76589
+€
+
+PF
+PRINT KEY OFF

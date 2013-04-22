@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<colors>
+  <formback>080094</formback>
+  <formtext>FFFFFF</formtext>
+  <pictback>0000FF</pictback>
+  <buttonback>FF6300</buttonback>
+  <buttontext>FFFFFF</buttontext>
+  <texthighlight>FFC600</texthighlight>
+</colors>
